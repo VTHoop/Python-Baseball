@@ -1,0 +1,379 @@
+,lookup,throws
+0,Dellin Betances-Yankees,R
+1,Tyler Clippard-Yankees,R
+2,Giovanny Gallegos-Yankees,R
+3,Chad Green-Yankees,R
+4,Jonathan Holder-Yankees,R
+5,Tommy Layne-Yankees,L
+6,Jordan Montgomery-Yankees,L
+7,Michael Pineda-Yankees,R
+8,CC Sabathia-Yankees,L
+9,Luis Severino-Yankees,R
+10,Chasen Shreve-Yankees,L
+11,Masahiro Tanaka-Yankees,R
+12,Adam Warren-Yankees,R
+13,Chase Anderson-Brewers,R
+14,Jacob Barnes-Brewers,R
+15,Zach Davies-Brewers,R
+16,Oliver Drake-Brewers,R
+17,Neftali Feliz-Brewers,R
+18,Matt Garza-Brewers,R
+19,Junior Guerra-Brewers,R
+20,Jared Hughes-Brewers,R
+21,Corey Knebel-Brewers,R
+22,Jimmy Nelson-Brewers,R
+23,Wily Peralta-Brewers,R
+24,Rob Scahill-Brewers,R
+25,Carlos Torres-Brewers,R
+26,Matt Belisle-Twins,R
+27,Jose Berrios-Twins,R
+28,Buddy Boshers-Twins,L
+29,Craig Breslow-Twins,L
+30,Tyler Duffey-Twins,R
+31,Kyle Gibson-Twins,R
+32,Brandon Kintzler-Twins,R
+33,Adalberto Mejia-Twins,L
+34,Taylor Rogers-Twins,L
+35,Randy Rosario-Twins,L
+36,Ervin Santana-Twins,R
+37,Hector Santiago-Twins,L
+38,Alex Wimmers-Twins,R
+39,Kyle Barraclough-Marlins,R
+40,Brian Ellington-Marlins,R
+41,Jarlin Garcia-Marlins,L
+42,Jeff Locke-Marlins,L
+43,Dustin McGowan-Marlins,R
+44,David Phelps-Marlins,R
+45,AJ Ramos-Marlins,R
+46,Dan Straily-Marlins,R
+47,Jose Urena-Marlins,R
+48,Edinson Volquez-Marlins,R
+49,Nick Wittgren-Marlins,R
+50,Vance Worley-Marlins,R
+51,Brad Ziegler-Marlins,R
+52,Bartolo Colon-Braves,R
+53,R.A. Dickey-Braves,R
+54,Mike Foltynewicz-Braves,R
+55,Sam Freeman-Braves,L
+56,Jaime Garcia-Braves,L
+57,Luke Jackson-Braves,R
+58,Jim Johnson-Braves,R
+59,Ian Krol-Braves,L
+60,Jason Motte-Braves,R
+61,Eric O'Flaherty-Braves,L
+62,Jose Ramirez-Braves,R
+63,Julio Teheran-Braves,R
+64,Arodys Vizcaino-Braves,R
+65,Fernando Abad-Red Sox,L
+66,Matt Barnes-Red Sox,R
+67,Blaine Boyer-Red Sox,R
+68,Heath Hembree-Red Sox,R
+69,Joe Kelly-Red Sox,R
+70,Craig Kimbrel-Red Sox,R
+71,Drew Pomeranz-Red Sox,L
+72,Rick Porcello-Red Sox,R
+73,David Price-Red Sox,L
+74,Chris Sale-Red Sox,L
+75,Robby Scott-Red Sox,L
+76,Brandon Workman-Red Sox,R
+77,Michael Fulmer-Tigers,R
+78,Shane Greene-Tigers,R
+79,Blaine Hardy-Tigers,L
+80,Arcenio Leon-Tigers,R
+81,Daniel Norris-Tigers,L
+82,Francisco Rodriguez-Tigers,R
+83,Warwick Saupold-Tigers,R
+84,Daniel Stumpf-Tigers,L
+85,Justin Verlander-Tigers,R
+86,Alex Wilson-Tigers,R
+87,Justin Wilson-Tigers,L
+88,Jordan Zimmermann-Tigers,R
+89,Tim Adleman-Reds,R
+90,Bronson Arroyo-Reds,R
+91,Lisalverto Bonilla-Reds,R
+92,Austin Brice-Reds,R
+93,Jake Buchanan-Reds,R
+94,Scott Feldman-Reds,R
+95,Amir Garrett-Reds,L
+96,Raisel Iglesias-Reds,R
+97,Michael Lorenzen-Reds,R
+98,Wandy Peralta-Reds,L
+99,Drew Storen-Reds,R
+100,Asher Wojciechowski-Reds,R
+101,Blake Wood-Reds,R
+102,Jerry Blevins-Mets,L
+103,Jacob deGrom-Mets,R
+104,Josh Edgin-Mets,L
+105,Robert Gsellman-Mets,R
+106,Matt Harvey-Mets,R
+107,Tyler Pill-Mets,R
+108,Neil Ramirez-Mets,R
+109,Addison Reed-Mets,R
+110,Fernando Salas-Mets,R
+111,Paul Sewald-Mets,R
+112,Josh Smoker-Mets,L
+113,Zack Wheeler-Mets,R
+114,Alec Asher-Orioles,R
+115,Richard Bleier-Orioles,L
+116,Brad Brach-Orioles,R
+117,Dylan Bundy-Orioles,R
+118,Kevin Gausman-Orioles,R
+119,Mychal Givens-Orioles,R
+120,Donnie Hart-Orioles,L
+121,Ubaldo Jimenez-Orioles,R
+122,Wade Miley-Orioles,L
+123,Darren O'Day-Orioles,R
+124,Chris Tillman-Orioles,R
+125,Mike Wright-Orioles,R
+126,Tyler Chatwood-Rockies,R
+127,Mike Dunn-Rockies,L
+128,Carlos Estevez-Rockies,R
+129,Kyle Freeland-Rockies,L
+130,Jeff Hoffman-Rockies,R
+131,Greg Holland-Rockies,R
+132,Jordan Lyles-Rockies,R
+133,German Marquez-Rockies,R
+134,Jake McGee-Rockies,L
+135,Scott Oberg-Rockies,R
+136,Chad Qualls-Rockies,R
+137,Chris Rusin-Rockies,L
+138,Antonio Senzatela-Rockies,R
+139,John Axford-Athletics,R
+140,Santiago Casilla-Athletics,R
+141,Jharel Cotton-Athletics,R
+142,Daniel Coulombe-Athletics,L
+143,Sonny Gray-Athletics,R
+144,Jesse Hahn-Athletics,R
+145,Liam Hendriks-Athletics,R
+146,Ryan Madson-Athletics,R
+147,Sean Manaea-Athletics,L
+148,Frankie Montas-Athletics,R
+149,Zach Neal-Athletics,R
+150,Josh Smith-Athletics,R
+151,Andrew Triggs-Athletics,R
+152,Tony Barnette-Rangers,R
+153,Austin Bibens-Dirkx-Rangers,R
+154,Matt Bush-Rangers,R
+155,Andrew Cashner-Rangers,R
+156,Alex Claudio-Rangers,L
+157,Yu Darvish-Rangers,R
+158,Dillon Gee-Rangers,R
+159,Jeremy Jeffress-Rangers,R
+160,Keone Kela-Rangers,R
+161,Jose Leclerc-Rangers,R
+162,Nick Martinez-Rangers,R
+163,Martin Perez-Rangers,L
+164,Danny Barnes-Blue Jays,R
+165,Jeff Beliveau-Blue Jays,L
+166,Joe Biagini-Blue Jays,R
+167,Marco Estrada-Blue Jays,R
+168,Jason Grilli-Blue Jays,R
+169,J.A. Happ-Blue Jays,L
+170,Francisco Liriano-Blue Jays,L
+171,Aaron Loup-Blue Jays,L
+172,Roberto Osuna-Blue Jays,R
+173,Joe Smith-Blue Jays,R
+174,Marcus Stroman-Blue Jays,R
+175,Ryan Tepera-Blue Jays,R
+176,Dan Altavilla-Mariners,R
+177,Christian Bergman-Mariners,R
+178,Steve Cishek-Mariners,R
+179,Tyler Cloyd-Mariners,R
+180,Edwin Diaz-Mariners,R
+181,Yovani Gallardo-Mariners,R
+182,Sam Gaviglio-Mariners,R
+183,Ariel Miranda-Mariners,L
+184,James Paxton-Mariners,L
+185,James Pazos-Mariners,L
+186,Marc Rzepczynski-Mariners,L
+187,Nick Vincent-Mariners,R
+188,Tony Zych-Mariners,R
+189,Johnny Barbato-Pirates,R
+190,Gerrit Cole-Pirates,R
+191,Tyler Glasnow-Pirates,R
+192,Daniel Hudson-Pirates,R
+193,Chad Kuhl-Pirates,R
+194,Wade LeBlanc-Pirates,L
+195,Jhan Marinez-Pirates,R
+196,Juan Nicasio-Pirates,R
+197,Ivan Nova-Pirates,R
+198,Felipe Rivero-Pirates,L
+199,Tony Watson-Pirates,L
+200,Trevor Williams-Pirates,R
+201,Jake Arrieta-Cubs,R
+202,Eddie Butler-Cubs,R
+203,Brian Duensing-Cubs,L
+204,Carl Edwards Jr.-Cubs,R
+205,Dylan Floro-Cubs,R
+206,Justin Grimm-Cubs,R
+207,Kyle Hendricks-Cubs,R
+208,John Lackey-Cubs,R
+209,Jon Lester-Cubs,L
+210,Mike Montgomery-Cubs,L
+211,Hector Rondon-Cubs,R
+212,Pedro Strop-Cubs,R
+213,Koji Uehara-Cubs,R
+214,Matt Bowman-Cardinals,R
+215,John Brebbia-Cardinals,R
+216,Brett Cecil-Cardinals,L
+217,John Gant-Cardinals,R
+218,Mike Leake-Cardinals,R
+219,Lance Lynn-Cardinals,R
+220,Tyler Lyons-Cardinals,L
+221,Carlos Martinez-Cardinals,R
+222,Seung-Hwan Oh-Cardinals,R
+223,Trevor Rosenthal-Cardinals,R
+224,Kevin Siegrist-Cardinals,L
+225,Michael Wacha-Cardinals,R
+226,Adam Wainwright-Cardinals,R
+227,Cody Allen-Indians,R
+228,Trevor Bauer-Indians,R
+229,Carlos Carrasco-Indians,R
+230,Mike Clevinger-Indians,R
+231,Nick Goody-Indians,R
+232,Corey Kluber-Indians,R
+233,Boone Logan-Indians,L
+234,Zach McAllister-Indians,R
+235,Andrew Miller-Indians,L
+236,Dan Otero-Indians,R
+237,Danny Salazar-Indians,R
+238,Bryan Shaw-Indians,R
+239,Josh Tomlin-Indians,R
+240,Chris Devenski-Astros,R
+241,Michael Feliz-Astros,R
+242,Mike Fiers-Astros,R
+243,Ken Giles-Astros,R
+244,Luke Gregerson-Astros,R
+245,Reymin Guduan-Astros,L
+246,Will Harris-Astros,R
+247,James Hoyt-Astros,R
+248,Dallas Keuchel-Astros,L
+249,Lance McCullers Jr.-Astros,R
+250,David Paulino-Astros,R
+251,Brad Peacock-Astros,R
+252,Tony Sipp-Astros,L
+253,Chris Beck-White Sox,R
+254,Brad Goldberg-White Sox,R
+255,Miguel Gonzalez-White Sox,R
+256,Derek Holland-White Sox,L
+257,David Holmberg-White Sox,L
+258,Gregory Infante-White Sox,R
+259,Dan Jennings-White Sox,L
+260,Tommy Kahnle-White Sox,R
+261,Juan Minaya-White Sox,R
+262,Mike Pelfrey-White Sox,R
+263,Jose Quintana-White Sox,L
+264,David Robertson-White Sox,R
+265,Anthony Swarzak-White Sox,R
+266,Matt Albers-Nationals,R
+267,Koda Glover-Nationals,R
+268,Gio Gonzalez-Nationals,L
+269,Shawn Kelley-Nationals,R
+270,Oliver Perez-Nationals,L
+271,Tanner Roark-Nationals,R
+272,Enny Romero-Nationals,L
+273,Joe Ross-Nationals,R
+274,Max Scherzer-Nationals,R
+275,Stephen Strasburg-Nationals,R
+276,Blake Treinen-Nationals,R
+277,Jacob Turner-Nationals,R
+278,Jason Hammel-Royals,R
+279,Kelvin Herrera-Royals,R
+280,Jake Junis-Royals,R
+281,Ian Kennedy-Royals,R
+282,Seth Maness-Royals,R
+283,Kevin McCarthy-Royals,R
+284,Mike Minor-Royals,L
+285,Peter Moylan-Royals,R
+286,Eric Skoglund-Royals,L
+287,Joakim Soria-Royals,R
+288,Matt Strahm-Royals,L
+289,Jason Vargas-Royals,L
+290,Travis Wood-Royals,L
+291,Chris Young-Royals,R
+292,Jerad Eickhoff-Phillies,R
+293,Luis Garcia-Phillies,R
+294,Jeanmar Gomez-Phillies,R
+295,Jeremy Hellickson-Phillies,R
+296,Ben Lively-Phillies,R
+297,Adam Morgan-Phillies,L
+298,Hector Neris-Phillies,R
+299,Pat Neshek-Phillies,R
+300,Aaron Nola-Phillies,R
+301,Nick Pivetta-Phillies,R
+302,Edubray Ramos-Phillies,R
+303,Joely Rodriguez-Phillies,L
+304,Pedro Baez-Dodgers,R
+305,Grant Dayton-Dodgers,L
+306,Josh Fields-Dodgers,R
+307,Chris Hatcher-Dodgers,R
+308,Rich Hill-Dodgers,L
+309,Kenley Jansen-Dodgers,R
+310,Clayton Kershaw-Dodgers,L
+311,Kenta Maeda-Dodgers,R
+312,Brandon McCarthy-Dodgers,R
+313,Brandon Morrow-Dodgers,R
+314,Sergio Romo-Dodgers,R
+315,Hyun-Jin Ryu-Dodgers,L
+316,Ross Stripling-Dodgers,R
+317,Jose Alvarado-Rays,L
+318,Chris Archer-Rays,R
+319,Alex Cobb-Rays,R
+320,Alex Colome-Rays,R
+321,Danny Farquhar-Rays,R
+322,Ryan Garton-Rays,R
+323,Tommy Hunter-Rays,R
+324,Jake Odorizzi-Rays,R
+325,Austin Pruitt-Rays,R
+326,Erasmo Ramirez-Rays,R
+327,Ryne Stanek-Rays,R
+328,Chase Whitley-Rays,R
+329,Jose Alvarez-Angels,L
+330,Jesse Chavez-Angels,R
+331,David Hernandez-Angels,R
+332,Alex Meyer-Angels,R
+333,Keynan Middleton-Angels,R
+334,Ricky Nolasco-Angels,R
+335,Bud Norris-Angels,R
+336,Blake Parker-Angels,R
+337,Yusmeiro Petit-Angels,R
+338,Brooks Pounders-Angels,R
+339,JC Ramirez-Angels,R
+340,Matt Shoemaker-Angels,R
+341,Archie Bradley-Diamondbacks,R
+342,Andrew Chafin-Diamondbacks,L
+343,Patrick Corbin-Diamondbacks,L
+344,Jorge De La Rosa-Diamondbacks,L
+345,Randall Delgado-Diamondbacks,R
+346,Zack Greinke-Diamondbacks,R
+347,J.J. Hoover-Diamondbacks,R
+348,T.J. McFarland-Diamondbacks,L
+349,Robbie Ray-Diamondbacks,L
+350,Fernando Rodney-Diamondbacks,R
+351,Braden Shipley-Diamondbacks,R
+352,Tom Wilhelmsen-Diamondbacks,R
+353,Ty Blach-Giants,L
+354,Matt Cain-Giants,R
+355,Johnny Cueto-Giants,R
+356,Cory Gearrin-Giants,R
+357,George Kontos-Giants,R
+358,Derek Law-Giants,R
+359,Mark Melancon-Giants,R
+360,Matt Moore-Giants,L
+361,Bryan Morris-Giants,R
+362,Josh Osich-Giants,L
+363,Jeff Samardzija-Giants,R
+364,Hunter Strickland-Giants,R
+365,Ryan Buchter-Padres,L
+366,Jhoulys Chacin-Padres,R
+367,Jarred Cosart-Padres,R
+368,Miguel Diaz-Padres,R
+369,Brad Hand-Padres,L
+370,Dinelson Lamet-Padres,R
+371,Brandon Maurer-Padres,R
+372,Luis Perdomo-Padres,R
+373,Kevin Quackenbush-Padres,R
+374,Clayton Richard-Padres,L
+375,Craig Stammen-Padres,R
+376,Jose Torres-Padres,L
+377,Kirby Yates-Padres,R

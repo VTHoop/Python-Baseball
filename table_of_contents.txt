@@ -1,0 +1,24 @@
+Table of Contents:
+
+baseball.py
+	This is the main file from which all other functions are called and in which calculates the final winning/losing 		percentages for a game.
+
+merge_data.py
+	add_run_line() - this function takes the run line from bovada.com and adds it to game data file
+	add_projected_stats() - this function takes the projected wOBA and WHIP from FanGraphs and merges it into the main 	player statistics file
+
+baseline_stats.py
+	this file contains the functions that calculate the league averages for the major statistics that are compared 			from team to team (total runs, wOBA, WHIP)
+
+lineups.py
+	this file is where the lineups for the day are currently entered.  This will be updated to automatically import 	them at a later time.
+	Based on the lineups and starting pitcher, the team average statistics for wOBA and WHIP are calculated	
+
+team_main_stats.py
+	This calls the API to build the team statistics
+
+player_main_stats.py
+	This calls the API to build the player statistics
+
+games.py
+	This calls the API to build the daily games

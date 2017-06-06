@@ -1,0 +1,8 @@
+Away_Model_Line,Away_Team,Away_Vegas_Line,Date,Home_Model_Line,Home_Team,Home_Vegas_Line,Model_Decision,Fav_Dog,Difference,Bet_Amount,Actual_Result,Result_Amount
+134,PHI,105,6/5/2017,-134,ATL,-125,HOME,Favorite,9,12.5,AWAY,-12.5
+121,SF,-118,6/5/2017,-121,MIL,-102,HOME,Favorite,19,10.2,AWAY,-10.2
+-228,MIA,107,6/5/2017,228,CHC,-127,AWAY,Dog,-355,10,HOME,-10
+-100,HOU,-148,6/5/2017,100,KC,128,HOME,Dog,28,10,AWAY,-10
+306,STL,-149,6/5/2017,-306,CIN,129,HOME,Dog,435,10,HOME,12.9
+124,TOR,-112,6/5/2017,-124,OAK,-108,HOME,Favorite,16,10.8,HOME,10
+125,WAS,112,6/5/2017,-125,LAD,-132,NO BET,None,None,0,AWAY,0
