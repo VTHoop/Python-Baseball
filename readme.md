@@ -19,9 +19,6 @@ Bovada is used for the analysis of sports betting lines.  However, to gain true 
 ### Files:
 Refer to "table_of_contents.txt" for a description of each of the files.
 
-### Inputs:
-The user will be provided a list of games for the current day and be asked to input the ID of the game to be analyzed.
-
 ### Data Sources:
 CSV files gathered from mysportsfeed.com  
 XML files gathered from bovada.com  
