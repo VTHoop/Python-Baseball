@@ -10,6 +10,12 @@ Bovada is used for the analysis of sports betting lines.  However, to gain true 
 
 5/19 - Splits have been added (Home, vs. Left/Right, etc.)
 
+6/6 - MySportsFeed has promised an API to provide real time lineups and projected starting pitchers.  Currently, the lineups are hard coded.  This will be updated as soon as that is provided.
+
+6/6 - Currently the analysis is done game by game.  An enhancement will be made to automatically model any games in which starting lineups have been posted for the day.
+
+6/6 - A log of daily vegas lines and the lines created from this model will be posted to provide analysis of the model.
+
 ### Files:
 Refer to "table_of_contents.txt" for a description of each of the files.
 
@@ -21,6 +27,7 @@ CSV files gathered from mysportsfeed.com
 XML files gathered from bovada.com  
 CSV files gathered from fangraphs.com  
 Website scraping of espn.com
+Website scraping of rotowire.com
 
 ### Data Challenges:
 The following are the keys used to merge the data sets and the inconsistencies between them:
@@ -32,10 +39,6 @@ MySportsFeed to ESPN - Statistics were merged by using a combination of player's
 MySportsFeed to Bovada - the keys used in the merging of these data sets is the team cities and team names.  No inconsistencies have been found to this point.
 
 ### Future Enhancements:
-MySportsFeed has promised an API to provide real time lineups and projected starting pitchers.  Currently, the lineups are hard coded.  This will be updated as soon as that is provided.
 
-Currently the analysis is done game by game.  An enhancement will be made to automatically model any games in which starting lineups have been posted for the day.
-
-A log of daily vegas lines and the lines created from this model will be posted to provide analysis of the model.
 
 As the log grows, additional analysis of the model will be done to continually enhance it.
